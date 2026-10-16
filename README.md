@@ -3,7 +3,7 @@ I'm a junior Unity developer who enjoys building playable prototypes, gameplay s
 
 - 🎮 Role: Junior Unity Developer — gameplay, systems, UI, basic shaders and audio
 - 🌱 Currently learning: gameplay programming, optimization, AI behaviours, polish and UX
-- 📫 Contact: Wolfrahm57@gmail.com
+- 📫 Contact: dmni.belousov@gmail.com
 
 ## Skills
 - Unity (projects include Assets, ProjectSettings, Packages)
